@@ -13,7 +13,7 @@
 • Cloud Technologies: GCP, Azure and GCP <br/>
 
 <h2> Professional Experience </h2>
-<p>System Administrator</p><br>
+<p>System Administrator</p>
 Opensource Pte Ltd, Singapore
 
 Apr 2018–Mar 2023
