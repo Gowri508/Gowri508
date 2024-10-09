@@ -4,7 +4,7 @@
 - 🔭 I’m currently studying in LaSalle college
 - 🌱 I’m currently learning IT Programmer Analyst Course
 
-Technical Skills
+<h2>Technical Skills</h2>
 
 • Operating System: Redhat Linux (8/7), Windows 7, 10, 2008, 2012, 2016 and 2019
 • Database: MS SQL, MySQL and Postgres SQL
@@ -12,7 +12,7 @@ Technical Skills
 • Virtualization Technologies: Hyper – V, VMware
 • Cloud Technologies: GCP, Azure and GCP
 
-<h2> Professional Experience </h2><br>
+<h2> Professional Experience </h2>
 <p>System Administrator</p><br>
 Opensource Pte Ltd, Singapore
 
