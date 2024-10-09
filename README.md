@@ -12,8 +12,8 @@ Technical Skills
 • Virtualization Technologies: Hyper – V, VMware
 • Cloud Technologies: GCP, Azure and GCP
 
-Professional Experience
-System Administrator
+<h2> Professional Experience </h2><br>
+<p>System Administrator</p><br>
 Opensource Pte Ltd, Singapore
 
 Apr 2018–Mar 2023
