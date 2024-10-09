@@ -7,10 +7,10 @@
 <h2>Technical Skills</h2>
 
 • Operating System: Redhat Linux (8/7), Windows 7, 10, 2008, 2012, 2016 and 2019 <br/>
-• Database: MS SQL, MySQL and Postgres SQL
-• Programming Languages : Java, C#, C++, Python, HTML, CSS, PHP, JavaScript, NodeJS and JIRA
-• Virtualization Technologies: Hyper – V, VMware
-• Cloud Technologies: GCP, Azure and GCP
+• Database: MS SQL, MySQL and Postgres SQL <br/>
+• Programming Languages : Java, C#, C++, Python, HTML, CSS, PHP, JavaScript, NodeJS and JIRA <br/>
+• Virtualization Technologies: Hyper – V, VMware <br/>
+• Cloud Technologies: GCP, Azure and GCP <br/>
 
 <h2> Professional Experience </h2>
 <p>System Administrator</p><br>
