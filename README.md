@@ -6,7 +6,7 @@
 
 <h2>Technical Skills</h2>
 
-• Operating System: Redhat Linux (8/7), Windows 7, 10, 2008, 2012, 2016 and 2019
+• Operating System: Redhat Linux (8/7), Windows 7, 10, 2008, 2012, 2016 and 2019 <br/>
 • Database: MS SQL, MySQL and Postgres SQL
 • Programming Languages : Java, C#, C++, Python, HTML, CSS, PHP, JavaScript, NodeJS and JIRA
 • Virtualization Technologies: Hyper – V, VMware
