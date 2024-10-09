@@ -4,22 +4,40 @@
 - 🔭 I’m currently studying in LaSalle college
 - 🌱 I’m currently learning IT Programmer Analyst Course
 
+Technical Skills
 
+• Operating System: Redhat Linux (8/7), Windows 7, 10, 2008, 2012, 2016 and 2019
+• Database: MS SQL, MySQL and Postgres SQL
+• Programming Languages : Java, C#, C++, Python, HTML, CSS, PHP, JavaScript, NodeJS and JIRA
+• Virtualization Technologies: Hyper – V, VMware
+• Cloud Technologies: GCP, Azure and GCP
 
-- SKILLS
-•	Object-Oriented Programming
-•	Algorithm Design
-•	Node.js
-•	Web Development
-•	Databases: Oracle, MSSQL
-•	Android development
-•	Programming Languages: Java, C#, .Net Framework, Python, J Query, PL/SQL, Swift, PHP
-•	Operating Systems: Windows, Linux
-•	MS Word, Excel, Power point
-•	IOS Mobile App development
-•	React
+Professional Experience
+System Administrator
+Opensource Pte Ltd, Singapore
 
+Apr 2018–Mar 2023
 
+• Installed, configured, and maintained physical and virtual servers, ensuring optimal performance and reliability.
+• Administered and monitored TCP/IP networks, including configuring routers and switches, and
+troubleshooting connectivity issues.
+• Managed user accounts, groups, and permissions in Active Directory, and performed routine audits and
+maintenance.
+• Implemented security measures, including firewalls, intrusion detection systems, and encryption protocols to
+protect sensitive data.
+• Provided technical support and resolved hardware, software, and network issues for end-users
+• Monitored system performance and made necessary adjustments to improve efficiency and performance.
+• Created and maintained documentation for system configurations, processes, and procedures, and generated
+regular reports on system status and incidents.
+Associate
+BLS International Services, Singapore
+
+Dec 2016 – Nov 2017
+
+• Deployed operating systems (Windows and Linux) upgrades and security patching in accordance with IT
+policies.
+• Maintained flexible schedule and responded to after-hours and weekend emergencies.
+• Implemented, developed and tested installation and update of file servers, print servers and application
 
   
 <h2>👨‍💻 My Projects:</h2>
@@ -40,5 +58,5 @@
 [<img align="left" alt="Nandana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/_v.i_r.s_h.e_r.e_a.d_s/
-[linkedin]: https://linkedin.com/in/nandana-s-nair-8036732b
+
+[linkedin]: (https://www.linkedin.com/in/gowripallamreddy/)
